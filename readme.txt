@@ -1,0 +1,1 @@
+tesseract ocr software must be installed to work with pytesseract
